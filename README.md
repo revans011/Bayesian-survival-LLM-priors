@@ -1,7 +1,7 @@
 # Bayesian-survival-LLM-priors
 Docs and code for eliciting priors from LLMs
 
-Richard Evans, PhD*
+Richard Evans, PhD
 Clinical and Translational Science Institute
 University of Minnesota
 Minneapolis, MN
